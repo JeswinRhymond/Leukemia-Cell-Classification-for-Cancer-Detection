@@ -1,4 +1,4 @@
-Leukemia-Cell-Classification-for-Cancer-Detection
+Leukemia-Cell-Classification-for-Cancer-Detection-using-Machine-learning & Deep-Learning
 
 Overview:
 
