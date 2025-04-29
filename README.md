@@ -18,11 +18,7 @@ Feature Extraction and Preprocessing Prior to classification, the dataset underg
 
 Algorithms Utilized:
 
-Random Forest
-K-Nearest Neighbors (KNN):
-Support Vector Machines (SVM)
-Naive Bayes
-Convolutional Neural Networks (CNN):
+Convolutional Neural Networks (CNN)
 
 Evaluation:
 
